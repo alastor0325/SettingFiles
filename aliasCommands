@@ -1,0 +1,10 @@
+alias goto-mc="cd ~/mozilla-source/mozilla-central/"
+alias refresh-bash="source ~/.bashrc"
+alias push-try-media-tests='./mach try: -b do -p win32,linux,macosx64 -u mochitest-media,mochitest-media-e10s,web-platform-tests,mochitest-bc,mochitest-e10s-bc -t none'
+alias find-rm-orig='find ./ -name "*.orig" | xargs rm'
+alias find-rm-rej='find ./ -name "*.rej" | xargs rm'
+alias push-try-all='./mach try -b do -p all -u all -t none'
+alias hg-diffc='hg diff -c .'
+alias hg-amend-ev-tip='hg amend && hg ev && hg up tip'
+alias hg-ev-tip='hg ev && hg up tip'
+alias open-http-server='python -m SimpleHTTPServer 8000'

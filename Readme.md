@@ -14,8 +14,10 @@
 - Sync alias
 - Download `ffmpeg`
   - add path to PATH (optional)
-- File Explorer
-  - Option > Open File Explorer to > This
+- Windows
+  - File Explorer
+    - Option > Open File Explorer to > This
+  - Install AV1 extension
 - Graphic setting
   - Go to `graphics setting`, set up default graphic card if necessary
 - Windows Terminal

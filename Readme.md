@@ -18,3 +18,7 @@
   - Option > Open File Explorer to > This
 - Graphic setting
   - Go to `graphics setting`, set up default graphic card if necessary
+- Windows Terminal
+  - Change terminal to `mozbuild`
+  - sync config from github file
+    - eg. clear buffer, switch windows...

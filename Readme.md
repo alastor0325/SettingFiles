@@ -24,3 +24,5 @@
   - Change terminal to `mozbuild`
   - sync config from github file
     - eg. clear buffer, switch windows...
+  - download [PowerToy](https://github.com/microsoft/PowerToys/releases/) [optional]
+    - remap keyboard setup (eg. switch desktop)

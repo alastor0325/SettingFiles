@@ -27,3 +27,9 @@
     - eg. clear buffer, switch windows...
   - download [PowerToy](https://github.com/microsoft/PowerToys/releases/) [optional]
     - remap keyboard setup (eg. switch desktop)
+- Gecko
+  - [Build firefox](https://firefox-source-docs.mozilla.org/setup/index.html)
+  - Setup [mozconfig](https://firefox-source-docs.mozilla.org/setup/configuring_build_options.html)
+  - Setup `scacche`
+    - [Installation](https://github.com/mozilla/sccache#windows)
+    - [Config setting](https://firefox-source-docs.mozilla.org/build/buildsystem/sccache-dist.html)

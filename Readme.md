@@ -1,6 +1,7 @@
 # TODO list for setting up new environment
 
 - Create new ssh key via `ssh-keygen`
+  - Set [key to mozilla account](https://mozilla-version-control-tools.readthedocs.io/en/latest/hgmozilla/auth.html)
 - Git
   - install git
   - add path to PATH (optional)
